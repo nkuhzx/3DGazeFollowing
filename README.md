@@ -15,7 +15,7 @@ We released the code and part of dataset for evaluation and visualization.
 ## Instruction
 
 1. Download the [dataset](https://drive.google.com/file/d/1jLhCFgRA6GJqS7-HSHqgdGN6UYiJQcOO/view?usp=sharing) we provide.
-2. Download the the [model weight]() we provide.
+2. Download the the [model weight](https://drive.google.com/file/d/1hQpLMxndLEb2RhLpK9Ahn0NMdmQJ-4Cn/view?usp=sharing) we provide.
 3. Clone our code to the local device.
 
     ```
